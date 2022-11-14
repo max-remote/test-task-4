@@ -1,8 +1,8 @@
-package com.maks.maxtask4;
+package com.maks.maxtask4.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
+import com.maks.maxtask4.R;
 
 public class MainActivity extends AppCompatActivity {
 
